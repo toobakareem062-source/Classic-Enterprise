@@ -1051,14 +1051,14 @@ body {
         background-color: #024a40;
         border-radius: 4px;
         width: 45px;
-        height: 20px;
+        height: 30px;
         display: flex;
         align-items: center;
         justify-content: center;
     }
     .navbar-toggler-icon {
         background-image: none;
-        width: 25px;
+        width: 28px;
         height: 20px;
         position: relative;
     }
