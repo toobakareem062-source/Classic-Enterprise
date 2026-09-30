@@ -1050,15 +1050,15 @@ body {
     .navbar-toggler {
         background-color: #024a40;
         border-radius: 4px;
-        width: 45px;
-        height: 30px;
+        width: 35px;
+        height: 20px;
         display: flex;
         align-items: center;
         justify-content: center;
     }
     .navbar-toggler-icon {
         background-image: none;
-        width: 28px;
+        width: 25px;
         height: 20px;
         position: relative;
     }
