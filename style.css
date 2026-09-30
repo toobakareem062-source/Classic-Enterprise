@@ -1050,8 +1050,8 @@ body {
     .navbar-toggler {
         background-color: #024a40;
         border-radius: 4px;
-        width: 55px;
-        height: 40px;
+        width: 45px;
+        height: 30px;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -1085,8 +1085,8 @@ body {
         top: 18px;
     }
     .navbar-brand img {
-        width: 150px;
-        height: 60px;
+        width: 120px;
+        height: 40px;
         object-fit: contain;
     }
     .navbar-nav {
