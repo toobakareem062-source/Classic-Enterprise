@@ -154,6 +154,24 @@ body {
     min-height: 185px;
     box-sizing: border-box;
 }
+.kaiwei-link {
+    display: block;
+    text-decoration: none !important;
+    color: inherit !important;
+}
+
+.kaiwei-link:hover,
+.kaiwei-link:focus,
+.kaiwei-link:active,
+.kaiwei-link:visited {
+    text-decoration: none !important;
+    color: inherit !important;
+}
+
+.kaiwei-link h6,
+.kaiwei-link p {
+    text-decoration: none !important;
+}
 .kaiwei_box {
     background-color: white;
     border-radius: 10px;
