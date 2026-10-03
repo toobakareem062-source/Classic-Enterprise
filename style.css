@@ -160,6 +160,7 @@ body {
     padding: 10px;
     border: 1px solid rgb(164, 200, 164);
     box-shadow: 0px 3px 10px rgb(81, 81, 81);
+     text-decoration: none;
 }
 .kaiwei_box img {
     height: 40px;
@@ -173,10 +174,12 @@ body {
     margin-top: 20px;
     margin-bottom: 2px;
     font-weight: 800;
+    text-decoration: none;
 }
 .kaiwei_box p {
     color: #005B4F;
     font-size: 16px;
+    text-decoration: none;
 }
 .material {
     display: inline-block;
