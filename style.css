@@ -212,18 +212,33 @@ body {
     font-size: 12px;
     font-weight: 600;
 }
+.jzm-link {
+    display: block;
+    text-decoration: none !important;
+    color: inherit !important;
+}
+
+.jzm-link:hover,
+.jzm-link:focus,
+.jzm-link:active,
+.jzm-link:visited {
+    text-decoration: none !important;
+    color: inherit !important;
+}
 .jzm_box {
     background-color: white;
     border-radius: 10px;
     padding: 10px 10px;
     border: 1px solid rgb(164, 200, 164);
     box-shadow: 0px 3px 10px rgb(81, 81, 81);
+    text-decoration: none;
 }
 .jzm_box h3 {
     color: #245B7A;
     font-weight: 900;
     font-size: 33px;
     text-align: center;
+    text-decoration: none;
 }
 .jzm_box h6 {
     color: #005B4F;
@@ -231,10 +246,12 @@ body {
     margin-top: 26px;
     margin-bottom: 2px;
     font-weight: 800;
+     ext-decoration: none;
 }
 .jzm_box p {
     color: #005B4F;
     font-size: 16px;
+    text-decoration: none;
 }
 #contact_section {
     width: 100%;
